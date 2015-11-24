@@ -1,0 +1,90 @@
+.navbar {
+  background-color: black;
+
+}
+
+#glyphhaut{
+  margin-top: 8px;
+  background-color: #D8D8D8;
+}
+#glyphbas{
+  margin-top: -21px;
+  background-color: #D8D8D8;
+}
+
+img {
+  margin-right: 40%;
+  margin-left: 585px;
+  width: 7%;
+  height: 7%;
+}
+.image{
+  margin-right: 10px;
+  margin-left: 585px;
+  width: 50%;
+height: 50%;
+}
+footer{
+  margin-top: 701px;
+  bottom:0;
+  right: 0;
+  left: 0;
+  text-align: center;
+  background-color: black;
+}
+
+.Bouton-Glif{
+  margin-top: 10px;
+}
+.Bouton-Glif-bas {
+  margin-top: -10px;
+}
+
+
+.cols1{
+  margin-top: -357px;
+}
+.cols2{
+  margin-top:-117px;
+}
+.cols3{
+  margin-top: -45px;
+}
+.cols5{
+  margin: -110px 0 0 0px;
+}
+
+.block1 h3 {
+  text-align: center;
+}
+.block2 h3{
+  text-align: center;
+}
+.block3 h3{
+  text-align: center;
+}
+.block5 h3{
+  text-align: center;
+}
+.block4{
+  margin: -12px 0 0 -141px;
+}
+.block4 h3 u{
+  margin-left: 250px;
+}
+.block4 h4 u{
+  margin-left:218px ;
+}
+kbd{
+  background-color: #5882FA;
+}
+
+h3{
+  font-family: 'Lobster';
+}
+h4{
+  font-family: 'Lobster';
+}
+dd{
+  line-height: 2;
+}

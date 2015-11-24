@@ -1,0 +1,61 @@
+@media screen and (max-width: 1024px) {
+  #block5{
+    text-align: center;
+    margin: 0px;
+  }
+  #block4{
+    text-align: center;
+
+  }
+  #block3{
+    text-align: center;
+  }
+  #block2{
+    text-align: center;
+  }
+  #block1{
+    text-align: center;
+  }
+}
+
+/*===========================================telephone====================================================*/
+@media screen and (max-width:568px) {
+  #glyphbas{
+    margin: 0 0 20px 54px ;
+  }
+}
+
+
+/*===========================================telephone====================================================*/
+/*===========================================petite tablette====================================================*/
+@media screen and (min-width: 600px) and (max-width: 800px){
+  #glyphbas{
+    margin: 0 0 20px 188px;
+  }
+}
+
+
+
+/*===========================================fin petite tablette====================================================*/
+@media screen and (min-width:768px ) and (max-width:1024px) {
+  #block5{
+    text-align: left;
+    margin: 0px;
+  }
+  #block4{
+    text-align: left;
+
+  }
+  #block3{
+    text-align: left;
+  }
+  #block2{
+    text-align: left;
+  }
+  #block1{
+    text-align: left;
+  }
+  #glyphbas{
+    margin: 0 0 20px 276px;
+  }
+}
